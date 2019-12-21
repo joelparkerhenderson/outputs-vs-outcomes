@@ -1,6 +1,11 @@
 # Outputs vs. outcomes
 
-What’s the difference between outputs and outcomes? 
+What’s the difference between outputs and outcomes? Outputs are "The What". Outcomes are "The Why".
+
+* [](#)
+
+
+## What’s the difference between outputs and outcomes? 
 
 Outputs are "The What". 
 
@@ -64,6 +69,15 @@ Growth example: Improve {topic} growth. Objective is grow {x%} during {timeframe
 Score example: Boost {topic} score. Objective is increase from {x} to {y} by {date}. Measure the score by {metric}.
 
 Rate example: Accelerate {topic} rate. Objective is achieve {duration} by {date}. Measure the rate by {metric}.
+
+
+## Related
+
+* [Objectives and key results](https://github.com/joelparkerhenderson/objectives_and_key_results)
+
+* [Key Performance Indicator](https://github.com/joelparkerhenderson/key_performance_indicator)
+
+* [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
 
 
 ## See
