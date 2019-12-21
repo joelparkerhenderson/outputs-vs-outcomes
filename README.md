@@ -25,10 +25,6 @@ Outputs are "The What".
 
   * Typically immediate; when you complete a process, you get an output.
 
-  * Measurement tends to be in terms of: count, commodities, completions.
-
-  * Measurement example: number of products we built last month.
-
 Outcomes are "The Why".
 
   * Outcomes are the benefits that our customers receive from our stuff. 
@@ -41,10 +37,6 @@ Outcomes are "The Why".
 
   * Typically not immediate; when you complete a process, you measure the outcome over time.
 
-  * Measurement tends to be in terms of: efficacy, efficiency, effectiveness.
-
-  * Measurement example: customer satisfaction score changes over time.
-
 
 ## Why does it matter?
 
@@ -53,6 +45,21 @@ The differences between outputs and outcomes matter because success is all about
 When you understand the words, then you can communicate more clearly with stakeholders, such as your customers, investors, partners, donors, and the like. 
 
 When you aim your organizational goals toward outcomes, rather than outputs, then you're aiming toward impact, rather than activity.
+
+
+## Measurement of outputs and outcomes
+
+Outputs:
+
+  * Measurement tends to be in terms of: counts, commodities, completions.
+
+  * Measurement example: number of products we built last month.
+
+Outcomes:
+
+  * Measurement tends to be in terms of: efficacy, efficiency, effectiveness.
+
+  * Measurement example: customer satisfaction score as it changes over time.
 
 
 ## Outcome management 
