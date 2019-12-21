@@ -85,11 +85,11 @@ Growth example:
 
 Score example: 
 
-  * Boost {topic} score. Objective is increase from {x} to {y} by {date}. Measure score by {metric}.
+  * Boost {topic} score. Objective: increase from {x} to {y} by {date}. Measure score by {metric}.
 
 Rate example: 
 
-  * Accelerate {topic} rate. Objective is achieve {throughput} by {deadline}. Measure rate by {metric}.
+  * Accelerate {topic} rate. Objective: achieve {throughput} by {deadline}. Measure rate by {metric}.
 
 
 ## Related
