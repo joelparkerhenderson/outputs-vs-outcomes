@@ -50,7 +50,9 @@ Outcomes are "The Why".
 
 The differences between outputs and outcomes matter because success is all about outcomes, not outputs. Good projects plan for the outputs to lead to outcomes.
 
-When you understand the words, then you can communicate more-clearly with stakeholders, such as your customers, investors, partners, donors, and the like. 
+When you understand the words, then you can communicate more clearly with stakeholders, such as your customers, investors, partners, donors, and the like. 
+
+When you aim your organizational goals toward outcomes, rather than outputs, then you're aiming toward impact, rather than activity.
 
 
 ## Outcome management 
