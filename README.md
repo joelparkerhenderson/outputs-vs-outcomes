@@ -81,15 +81,15 @@ Example: the impact of the a soup kitchen is the degree to which a reduction of 
 
 Growth example: 
 
-  * Improve {topic} growth. Objective is grow {x%} during {timeframe}. Measure the growth by {metric}.
+  * Improve {topic} growth. Objective: grow {x%} during {timeframe}. Measure growth by {metric}.
 
 Score example: 
 
-  * Boost {topic} score. Objective is increase from {x} to {y} by {date}. Measure the score by {metric}.
+  * Boost {topic} score. Objective is increase from {x} to {y} by {date}. Measure score by {metric}.
 
 Rate example: 
 
-  * Accelerate {topic} rate. Objective is achieve {throughput} by {deadline}. Measure the rate by {metric}.
+  * Accelerate {topic} rate. Objective is achieve {throughput} by {deadline}. Measure rate by {metric}.
 
 
 ## Related
