@@ -89,7 +89,7 @@ Score example:
 
 Rate example: 
 
-  * Accelerate {topic} rate. Objective is achieve {duration} by {deadline}. Measure the rate by {metric}.
+  * Accelerate {topic} rate. Objective is achieve {throughput} by {deadline}. Measure the rate by {metric}.
 
 
 ## Related
