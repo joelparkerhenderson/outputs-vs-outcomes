@@ -3,9 +3,10 @@
 What’s the difference between outputs and outcomes? Outputs are "The What". Outcomes are "The Why".
 
 * [What’s the difference between outputs and outcomes? ](#what-s-the-difference-between-outputs-and-outcomes)
+* [Why does it matter?](#why-does-it-matter)
 * [Outcome management ](#outcome-management)
 * [Outcome vs impact](#outcome-vs-impact)
-* [Outcome examples](#outcome-examples)
+* [Outcome objectives](#outcome-objectives)
 * [Related](#related)
 * [See also](#see-also)
 
@@ -43,6 +44,13 @@ Outcomes are "The Why".
   * Measurement tends to be in terms of: efficacy, efficiency, effectiveness.
 
   * Measurement example: customer satisfaction score changes over time.
+
+
+## Why does it matter?
+
+The differences between outputs and outcomes matter because success is all about outcomes, not outputs. Good projects plan for the outputs to lead to outcomes.
+
+When you understand the words, then you can communicate more-clearly with stakeholders, such as your customers, investors, partners, donors, and the like. 
 
 
 ## Outcome management 
