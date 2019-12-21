@@ -67,13 +67,19 @@ Impact is the degree to which the outcomes are attributable to the organization'
 Example: the impact of the a soup kitchen is the degree to which a reduction of hunger in the population they serve is attributable to its efforts. Suppose a soup kitchen starts serving more meals; the meals are outputs. Suppose a soup kitchen observes that hunger is subsequently less prevalent in the population it serves; the reduction in hunger is an outcome. However,  the reduction in hunger might be attributable to something other than the meals, such as an improving economy, or an unrelated school lunch program, or some other activities that are not part of the soup kitchen’s efforts.
 
 
-## Outcome examples
+## Outcome objectives
 
-Growth example: Improve {topic} growth. Objective is grow {x%} during {timeframe}. Measure the growth by {metric}.
+Growth example: 
 
-Score example: Boost {topic} score. Objective is increase from {x} to {y} by {date}. Measure the score by {metric}.
+  * Improve {topic} growth. Objective is grow {x%} during {timeframe}. Measure the growth by {metric}.
 
-Rate example: Accelerate {topic} rate. Objective is achieve {duration} by {date}. Measure the rate by {metric}.
+Score example: 
+
+  * Boost {topic} score. Objective is increase from {x} to {y} by {date}. Measure the score by {metric}.
+
+Rate example: 
+
+  * Accelerate {topic} rate. Objective is achieve {duration} by {date}. Measure the rate by {metric}.
 
 
 ## Related
