@@ -2,18 +2,18 @@
 
 What’s the difference between outputs and outcomes? Outputs are "The What". Outcomes are "The Why".
 
-* [What’s the difference between outputs and outcomes? ](#what-s-the-difference-between-outputs-and-outcomes)
+* [What’s the difference between outputs and outcomes?](#what-s-the-difference-between-outputs-and-outcomes)
 * [Why does it matter?](#why-does-it-matter)
-* [Outcome management ](#outcome-management)
+* [Outcome management](#outcome-management)
 * [Outcome vs impact](#outcome-vs-impact)
 * [Outcome objectives](#outcome-objectives)
 * [Related](#related)
 * [See also](#see-also)
 
 
-## What’s the difference between outputs and outcomes? 
+## What’s the difference between outputs and outcomes?
 
-Outputs are "The What". 
+Outputs are "The What".
 
   * Outputs are the stuff we produce, be it physical or virtual, for our customers. 
 
@@ -29,7 +29,7 @@ Outputs are "The What".
 
   * Measurement example: number of products we built last month.
 
-Outcomes are "The Why". 
+Outcomes are "The Why".
 
   * Outcomes are the benefits that our customers receive from our stuff. 
 
@@ -79,15 +79,15 @@ Example: the impact of the a soup kitchen is the degree to which a reduction of 
 
 ## Outcome objectives
 
-Growth example: 
+Growth example:
 
   * Improve {topic} growth. Objective: grow {x%} during {timeframe}. Measure growth by {metric}.
 
-Score example: 
+Score example:
 
   * Boost {topic} score. Objective: increase from {x} to {y} by {date}. Measure score by {metric}.
 
-Rate example: 
+Rate example:
 
   * Accelerate {topic} rate. Objective: achieve {throughput} by {deadline}. Measure rate by {metric}.
 
@@ -108,5 +108,3 @@ Rate example:
 * [How to Talk About Nonprofit Impact from Inputs to Outcomes](https://www.thebalancesmb.com/inputs-outputs-outcomes-impact-what-s-the-difference-2502227)
 
 * [Outputs vs. Outcomes and Why it Matters](https://measurementresourcesco.com/2014/02/02/outputs-vs-outcomes-matters/)
-
-
