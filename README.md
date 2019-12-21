@@ -70,7 +70,7 @@ Present achievements that demonstrate the true value of what the organization is
 Present achievements in ways that important audiences can understand.
 
 
-## Outcome vs impact
+## Outcome vs. impact
 
 Impact is the degree to which the outcomes are attributable to the organization's work.
 
