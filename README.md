@@ -2,7 +2,12 @@
 
 What’s the difference between outputs and outcomes? Outputs are "The What". Outcomes are "The Why".
 
-* [](#)
+* [What’s the difference between outputs and outcomes? ](#what-s-the-difference-between-outputs-and-outcomes)
+* [Outcome management ](#outcome-management)
+* [Outcome vs impact](#outcome-vs-impact)
+* [Outcome examples](#outcome-examples)
+* [Related](#related)
+* [See also](#see-also)
 
 
 ## What’s the difference between outputs and outcomes? 
@@ -80,7 +85,7 @@ Rate example: Accelerate {topic} rate. Objective is achieve {duration} by {date}
 * [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
 
 
-## See
+## See also
 
 * [It’s Not Just Semantics: Managing Outcomes Vs. Outputs](https://hbr.org/2012/11/its-not-just-semantics-managing-outcomes)
 
